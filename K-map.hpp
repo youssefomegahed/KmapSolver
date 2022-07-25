@@ -1,9 +1,3 @@
-//
-//  K-map.hpp
-//  DD project 1
-//
-//  Created by Yasmina Halbouny on 27/03/2021.
-//
 
 #ifndef K_map_hpp
 #define K_map_hpp

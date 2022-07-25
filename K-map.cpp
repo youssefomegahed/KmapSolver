@@ -1,10 +1,3 @@
-//
-//  K-map.cpp
-//  DD project 1
-//
-//  Created by Yasmina Halbouny on 27/03/2021.
-//
-
 #include "K-map.hpp"
 
 Kmap::Kmap()

@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  DD project 1
-//
-//  Created by Yasmina Halbouny on 16/03/2021.
-//
-
 #include "K-map.hpp"
 
 int main()
